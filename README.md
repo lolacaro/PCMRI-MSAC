@@ -6,7 +6,10 @@ This code and data is published under the CC-BY-NC
 
 ## Citation
 Please cite the corresponding paper to this code, if you reuse it for your own purposes.
-//Paper will be added once published
+
+Carola Fischer, Jens Wetzl, Tobias Schaeffter and Daniel Giese
+**Fully automated background phase correction using M-estimate SAmple consensus (MSAC)—Application to 2D and 4D flow**
+https://doi.org/10.1002/mrm.29363
 
 ## Prerequisites
 python >= 3.8,
