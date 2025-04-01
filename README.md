@@ -32,6 +32,8 @@ execute_MSAC.py:       Runs example code and can be modified to load own data
 
 **Private:**  
 m_plot_correction.py:  Plots correction and MSAC mask   
-m_run.py:              runs MSAC and corrects background phase from velocity data       
+m_run.py:              runs MSAC and corrects background phase from velocity data
+m_msac.py:             defines MSAC algorithm
+m_fitFunctions.py:     Fit functions, Cost functions and Evaluation Functions needed for MSAC
                      
                          
